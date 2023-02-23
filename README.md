@@ -1,4 +1,4 @@
-# End-to-End Messaging Documentation
+<h1 align="center">End-to-End Messaging Documentation</h1>
 
 ## Introduction
 End-to-End (E2E) messaging refers to a secure form of communication where messages can only be read by the sender and the intended recipient. E2E messaging provides a level of privacy and security that is essential in today's digital world.
