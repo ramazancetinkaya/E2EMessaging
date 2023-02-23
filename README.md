@@ -1,6 +1,5 @@
 <h1 align="center">End-to-End Messaging Documentation</h1>
 
-
 <h3 align="center">Don't hesitate to fork the project. For more information, please check the CONTRIBUTING.md page.</h3>
 
 <p align="center">
