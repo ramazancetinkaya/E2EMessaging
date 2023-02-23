@@ -67,5 +67,14 @@ End-to-End messaging provides a secure and private form of communication that is
 
 Please visit https://en.wikipedia.org/wiki/End-to-end_encryption for more information.
 
+## Response Time for Issues and Feedback
+We appreciate all feedback, bug reports, and contributions to the End-to-End Messaging project. 
+We will do our best to respond to all issues and pull requests as quickly as possible.
+
+Please note that we may not be able to respond immediately due to other commitments or the complexity of the issue. 
+However, we will make every effort to provide a response in a timely manner.
+
+Thank you for your understanding and patience. We value your contributions to the project and will do our best to address any issues or feedback as soon as possible.
+
 ## License
 This project is licensed under the **MIT License** - see the **LICENSE.md** file for details.
