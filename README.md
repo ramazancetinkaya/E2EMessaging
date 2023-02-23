@@ -1,8 +1,7 @@
 <h1 align="center">End-to-End Messaging Documentation</h1>
 
-<p align="center">
-  Don't hesitate to fork the project. For more information, please check the CONTRIBUTING.md page.
-</p>
+
+<h3 align="center">Don't hesitate to fork the project. For more information, please check the CONTRIBUTING.md page.</h3>
 
 <p align="center">
     :star: <strong>Star us on GitHub</strong> — it motivates us a lot!
