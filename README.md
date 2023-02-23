@@ -50,3 +50,7 @@ Implementing E2E messaging requires careful planning and attention to detail. He
 
 ## Conclusion
 End-to-End messaging provides a secure and private form of communication that is essential in today's digital world. Implementing E2E messaging requires careful planning and attention to detail, but the benefits of increased privacy and security are well worth the effort.
+
+###
+
+Please visit https://en.wikipedia.org/wiki/End-to-end_encryption for more information.
