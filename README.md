@@ -1,5 +1,13 @@
 <h1 align="center">End-to-End Messaging Documentation</h1>
 
+<p align="center">
+  Don't hesitate to fork the project. For more information, please check the CONTRIBUTING.md page.
+</p>
+
+<p align="center">
+    :star: <strong>Star us on GitHub</strong> — it motivates us a lot!
+</p>
+
 ## Introduction
 End-to-End (E2E) messaging refers to a secure form of communication where messages can only be read by the sender and the intended recipient. E2E messaging provides a level of privacy and security that is essential in today's digital world.
 
@@ -60,9 +68,3 @@ End-to-End messaging provides a secure and private form of communication that is
 ###
 
 Please visit https://en.wikipedia.org/wiki/End-to-end_encryption for more information.
-
----
-
-<p align="center">
-    :star: <strong>Star us on GitHub</strong> — it motivates us a lot!
-</p>
