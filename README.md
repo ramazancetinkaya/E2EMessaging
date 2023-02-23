@@ -5,6 +5,12 @@ End-to-End (E2E) messaging refers to a secure form of communication where messag
 
 This documentation provides a detailed guide on E2E messaging, including what it is, how it works, and how to implement it.
 
+<h3 align="center">End-to-end Encryption Architecture</h3>
+
+<div align="center">
+  <img src="https://assets.website-files.com/5ff66329429d880392f6cba2/61cb0dc89a14f60176e266aa_end-to-end%20encryption%20work.jpg">
+</div>
+
 ## What is E2E messaging?
 E2E messaging is a form of secure communication where messages are encrypted and can only be decrypted by the sender and the intended recipient. This means that no third party, including service providers, can access the content of the message. E2E messaging is often used in sensitive communications such as financial transactions, healthcare, and legal matters.
 
