@@ -66,3 +66,6 @@ End-to-End messaging provides a secure and private form of communication that is
 ###
 
 Please visit https://en.wikipedia.org/wiki/End-to-end_encryption for more information.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
